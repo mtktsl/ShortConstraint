@@ -13,6 +13,10 @@ ShortConstraint keeps UIKit’s idioms but makes constraint code **shorter, chai
 
 ---
 
+## ⚙️ Requirements
+- Swift 6.2
+- Minimum iOS target: v12
+
 ## 🚀 Installation
 
 Add `ShortConstraint` to your project via **Swift Package Manager**:
